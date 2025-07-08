@@ -1,3 +1,12 @@
+#petipotam{
+    color: grey;
+    
+}
+#petipotam:first-child{
+display: none;
+}
+.kilo{color: orange;}
+
 #petitpotam {
     visibility: hidden;
 
@@ -7,4 +16,8 @@
 }
 
 #petitpotam{background-color:teal !important;}
+
 #petitpotam>div{font-size:18px;}
+
+#petitpotam>div{font-size:18px;}
+
