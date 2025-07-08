@@ -1,0 +1,8 @@
+#petipotam{
+    color: grey;
+    
+}
+#petipotam:first-child{
+display: none;
+}
+.kilo{color: orange;}
